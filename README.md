@@ -1,6 +1,6 @@
-# memory_game
+# Memory Game
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a memory game made with Vue 3.
 
 ## Recommended IDE Setup
 
